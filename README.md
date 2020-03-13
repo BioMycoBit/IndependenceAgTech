@@ -1,5 +1,5 @@
-# [Independence AgTech](
-https://www.meetup.com/Independence-Ag-Tech-Meetup/ "Meetup Homepage")
+# Independence AgTech
+    [Independence AgTech Meetup Homepage] https://www.meetup.com/Independence-Ag-Tech-Meetup/ "Meetup Homepage")
 
 ## Ag Innovation Challenges
 
