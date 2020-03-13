@@ -15,7 +15,8 @@ intelligence, machine learning, mixed reality, robotics, drones, etc."*
 ### Challenge 2: Statewide Agriculture Data Hub
 > *"In this challenge, we would like to leverage technology to create a data hub that can scale to host all Oregon crops information, run analytics on top of the data for trend spotting, etc. and determine a way to compensate growers for sharing data.  Potential technical solutions include big data tools such as Hadoop or **MongoDB**, machine learning, big data analytics tools such as Tableau, etc."*
 + MongoDB QuickStart with Python (Free 2 Hr Course) [https://freemongodbcourse.com/](https://freemongodbcourse.com/)
-
++ Oregon Secretary of State [https://sos.oregon.gov/Pages/index.aspx](https://sos.oregon.gov/Pages/index.aspx)
++ Trio: a friendly Python library for async concurrency and I/O (for datamining) [https://trio.readthedocs.io/en/stable/](https://trio.readthedocs.io/en/stable/)
 
 ### Challenge 3: Agriculture Approval Process
 > *"In this challenge, we would like to see workflow and process automation developed to lessen the time it takes for this approval process to occur and minimize mistakes.  Additionally, there is an opportunity to develop a system where a grower/producer can input the data once and share it in an authenticated way to various agencies.  Potential technical solutions could include distributed ledger technology such as **blockchain**, business process management, workflow management solutions, etc."*
