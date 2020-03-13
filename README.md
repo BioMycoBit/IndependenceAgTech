@@ -26,6 +26,7 @@ intelligence, machine learning, mixed reality, robotics, drones, etc."*
 #### Challenge 4: Goggles for enhanced wine production
 > *"In this challenge, we would like to see goggles developed that could be worn by a crew on the conveyor line to more accurately remove rotten or unripened fruit.  Potential technical solutions include hardware and software with advanced algorithms incorporated to select the best fruit, more accurately drop fruit from the vines in the field rather than harvest, etc"*
 + Brix [https://en.wikipedia.org/wiki/Brix](https://en.wikipedia.org/wiki/Brix)
++ Adafruit IO Environmental Monitor for Feather or Raspberry Pi [https://learn.adafruit.com/adafruit-io-air-quality-monitor?view=all](https://learn.adafruit.com/adafruit-io-air-quality-monitor?view=all)
 
 #### Challenge 5: "What's that crop?" App
 > *"In this challenge, we would like to see the development of an application that allows consumers to interact directly with growers to learn about farming practices, ask questions about crops with which they are not familiar and engage directly to ask questions in the event of a foodborne illness.  Potential solutions include a custom developed portal, two way marketplace, social engagement platform, etc.*
