@@ -15,6 +15,7 @@ intelligence, machine learning, mixed reality, robotics, drones, etc."*
 ### Challenge 2: Statewide Agriculture Data Hub
 > *"In this challenge, we would like to leverage technology to create a data hub that can scale to host all Oregon crops information, run analytics on top of the data for trend spotting, etc. and determine a way to compensate growers for sharing data.  Potential technical solutions include big data tools such as Hadoop or **MongoDB**, machine learning, big data analytics tools such as Tableau, etc."*
 + MongoDB QuickStart with Python (Free 2 Hr Course) [https://freemongodbcourse.com/](https://freemongodbcourse.com/)
++ MongoDB Univeristy for free courses on a variety of languages and MongoDB topics [https://university.mongodb.com/](https://university.mongodb.com/)
 + Oregon Secretary of State [https://sos.oregon.gov/Pages/index.aspx](https://sos.oregon.gov/Pages/index.aspx)
 + Trio: a friendly Python library for async concurrency and I/O (for datamining) [https://trio.readthedocs.io/en/stable/](https://trio.readthedocs.io/en/stable/)
 
