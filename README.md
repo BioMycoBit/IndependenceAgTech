@@ -8,6 +8,8 @@
 intelligence, machine learning, mixed reality, robotics, drones, etc."*
 
 #### Computer Vision
++ pyimagesearch.com : You can master Computer Vision, Deep Learning, and OpenCV. [https://www.pyimagesearch.com/](https://www.pyimagesearch.com/)
++ OpenCV : Open Computer Vision Library [https://opencv.org/](https://opencv.org/)
 + PyTorch [https://pytorch.org](https://pytorch.org)
 + PyTorch Tutorial: [Torchvision Object Detection Finetuning Tutorial](https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html)
 + PyTorch Tutorial: [Transfer Learning for Computer Vision Tutorial](https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html)
